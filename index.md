@@ -4,7 +4,7 @@ title: Varun Sharma - About
 ---
 ### About
 
-<img src="https://avatars2.githubusercontent.com/u/8896034?s=460&v=4" align="left" padding="5px" width="150px" />
+<img src="https://avatars2.githubusercontent.com/u/8896034?s=460&v=4" align="left" padding="10px" width="150px" />
 
 I'm a software engineer, currently working with Concur at Bangalore where I build micro-services using Clojure. My areas of interests are systems in general and programming language internals in particular. Indian classical and acoustical music enthusiast and explore these genres through percussions and guitar.
 
