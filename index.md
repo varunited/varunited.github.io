@@ -4,7 +4,7 @@ title: Varun Sharma - About
 ---
 ### About
 
-<img src="https://avatars2.githubusercontent.com/u/8896034?s=460&v=4" align="left" padding="20px" width="150px" />
+<img src="https://avatars2.githubusercontent.com/u/8896034?s=460&v=4" align="left" padding="10px" width="140px" />
 
 Currently working at SAP-Concur. I design and implement protocols for authentication and authorization to help solve identity problems using Clojure and Python. My areas of interests are systems in general and programming language internals in particular. Indian classical and acoustic music enthusiast and explore these genres through percussions and guitar.
 
